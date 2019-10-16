@@ -11,3 +11,6 @@ Web scraping of "South China Morning Post" website
 
 #### Center of Gravity Method with Automatic Differentiation
 Use to JAX python package to solve Center of Gravity Method
+
+#### Interior_Point_Method_Example
+An example of implementation of Interior Point Method with numpy
