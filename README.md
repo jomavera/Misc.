@@ -1,4 +1,4 @@
-## Collections of iPython Notebooks
+## Collection of iPython Notebooks
 
 #### Categories_extraction_scmp
 Categories extraction form news articles from the "South China Morning Post" via IBM's Natural Language Understanding API
