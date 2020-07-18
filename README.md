@@ -4,13 +4,16 @@
 Categories extraction form news articles from the "South China Morning Post" via IBM's Natural Language Understanding API
 
 #### Sentiment Analysis
-Sentiment Analysis of the 2015 Canandian Election from Tweets using scikit-learn.
+Sentiment Analysis of the 2015 Canandian Election from Tweets using scikit-learn
 
 #### South_china_webscrape
 Web scraping of "South China Morning Post" website
 
-#### Center of Gravity Method with Automatic Differentiation
+#### Center of Gravity with JAX
 Use to JAX python package to solve Center of Gravity Method
 
-#### Interior_Point_Method_Example
-An example of implementation of Interior Point Method with numpy
+#### Heterogeneous Vehicle Routing Problem with `gurobipy`
+Example of how to use `gurobipy` to model and solve optimization problems
+
+#### Interior Point Method Example
+An implementation example of Interior Point Method with `numpy`
