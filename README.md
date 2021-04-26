@@ -18,5 +18,11 @@ Example of how to use `gurobipy` to model and solve optimization problems
 #### Interior Point Method Example
 An implementation example of Interior Point Method with `numpy`
 
-#### Policy iteration in Hex World Problem
-An implementation of policy iteration for solving a MDP 
+#### Policy Iteration applied to Hex World Problem
+An implementation of policy iteration for solving an MDP 
+
+#### Gradient Descent for Optimization
+An implementation of Gradient Descent for optimization on Julia
+
+#### Newton Method for Optimization
+An implementation of Newton Method for optimization on Julia
